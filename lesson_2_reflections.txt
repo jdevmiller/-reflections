@@ -5,3 +5,6 @@ When you initialize a repository, it creates a folder to store metadata so that 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a virtual place, whereas the working directory is a physical location on the drive. The staging area allows you to control what you commit, rather than committing everything at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area allows you to only commit the files that constitute a logical change. So if you were to make more than one logical change spread out over different files, you could first make the changes you want, then commit them indiependently.
