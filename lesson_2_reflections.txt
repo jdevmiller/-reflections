@@ -1,1 +1,5 @@
 Lesson 2 Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, it creates a folder to store metadata so that it can track your repository. You need to initialize it so that all the files are in place to track your commits when you are ready.
+
