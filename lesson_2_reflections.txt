@@ -14,3 +14,6 @@ One example where branching would be useful is when you are making a game and yo
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help you to see which commits are linked and in which order.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When you merge two branches together, it takes the new elements from each branch and combines them into one branch. Any added lines are retained and deleted lines are left out. It is represented that way in the diagrams because you are taking two branches and making one.
