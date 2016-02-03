@@ -8,3 +8,6 @@ The staging area is a virtual place, whereas the working directory is a physical
 
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area allows you to only commit the files that constitute a logical change. So if you were to make more than one logical change spread out over different files, you could first make the changes you want, then commit them indiependently.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+One example where branching would be useful is when you are making a game and you create a secret level that is pretty complex. It would help you to branch because you could continue working on the secret level while also keeping your game up to date with bugs.
