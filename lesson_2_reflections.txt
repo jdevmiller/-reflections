@@ -17,3 +17,6 @@ The diagrams help you to see which commits are linked and in which order.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 When you merge two branches together, it takes the new elements from each branch and combines them into one branch. Any added lines are retained and deleted lines are left out. It is represented that way in the diagrams because you are taking two branches and making one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If you always merge manually you have much more conrol over the exact outcome. However, doing this is much more complicated, and you are more likely to miss changes in your code. Also doing it manually takes a lot more time.
