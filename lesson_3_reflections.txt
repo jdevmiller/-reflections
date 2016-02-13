@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+This would serve several purposes: it allows you to back up your projects, it makes it easy to share projects, it allows other users to add to the project from their own computers, it allows you to work on your project from another computer.
+
