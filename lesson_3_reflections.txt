@@ -3,3 +3,6 @@ This would serve several purposes: it allows you to back up your projects, it ma
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This is useful because you may not always want to have the latest version of the project on your PC. It gives you control over what you have on your PC. Also you can choose when and where to pull your project from GitHub, which allows you better security and allows you to avoid going over data caps based on your current internet connection.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork exists only on GitHub, and has links back to the original repository. A clone exists on both the origin server and the server it was cloned to - this could be either GitHub and a computer or both on the same computer. A branch can exist on GitHub and/or your computer - it allows you to branch off of the main project to add experimental features or personal changes. Forks allow you to copy someone elses work and modify it to your liking. Clones just copy work to your computer. Branches allow you to make changes to a repository without changing the oringinal project.
