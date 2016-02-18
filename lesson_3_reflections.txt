@@ -6,3 +6,6 @@ This is useful because you may not always want to have the latest version of the
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A fork exists only on GitHub, and has links back to the original repository. A clone exists on both the origin server and the server it was cloned to - this could be either GitHub and a computer or both on the same computer. A branch can exist on GitHub and/or your computer - it allows you to branch off of the main project to add experimental features or personal changes. Forks allow you to copy someone elses work and modify it to your liking. Clones just copy work to your computer. Branches allow you to make changes to a repository without changing the oringinal project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This would allow you to work on your project with the remotes updated to their lateste state. This is especially useful for working with submodules. 
