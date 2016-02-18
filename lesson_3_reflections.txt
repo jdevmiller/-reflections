@@ -12,3 +12,6 @@ This would allow you to work on your project with the remotes updated to their l
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could use some other version control system or something like google drive or dropbox. This would be a lot harder because you cannot branch, merge, or revert commits easily. It would be pretty impractical.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You want to make a separate branch for any modification or addition to the work that you might want to revert back to. This includes temporary changes, bug fixes, and feature additions. Keeping all of the commits inline might make it easier to pinpoint exact commits that introduced a bug, but it does not work well for temporary changes or experimental features.
